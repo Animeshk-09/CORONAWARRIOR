@@ -11,4 +11,4 @@
 * Select the folder to build the game and wait for the build process to complete.
 * Now play the game in your local computer
 
-![](images/game.png)
+![](images/game.PNG)
