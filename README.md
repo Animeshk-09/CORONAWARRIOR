@@ -10,3 +10,5 @@
 * To build the game simple go to file -> build settings -> build and run (make sure the build is on pc-standalone or webGL)
 * Select the folder to build the game and wait for the build process to complete.
 * Now play the game in your local computer
+
+![](images/game.png)
