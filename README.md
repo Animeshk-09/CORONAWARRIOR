@@ -16,5 +16,8 @@ You are the frontline warrior with the mission to kill all the Corona virus ( AK
 * Select the folder to build the game and wait for the build process to complete.
 * Now play the game in your local computer
 
-![](images/
+![](images/game.PNG)
+
+## Play the game on WEB
+You can Play the GAME . By following this [link](https://animeshk-09.github.io/CORONAWARRIOR/index.html)
 
