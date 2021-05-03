@@ -1,6 +1,6 @@
 # CORONAWARRIOR
 ## INTRO
-You are the frontline warrior with the mission to kill all the Corona virus ( AKA Covid-19).It is a Contagious disease which has affected whole world, every one is affected by it . the human family is suffering under an almost intolerable burden of loss. The climbing death toll is staggering, and we must work together to slow the spread of this virus. That is why you have been summoned to kill the virus with the vaccine . You must maintain social distance, if you come closer they will chase you  till you are affected. So get your masks on , put some sanitizers and get on the field. "A tribute to Coronawarrior, who selflessly choose to put their lives at risk, their families remain at home living their lives in doubt and fear"
+You are the frontline warrior with the mission to kill all the Corona virus ( AKA Covid-19).It is a Contagious disease which has affected whole world, every one is affected by it . the human family is suffering under an almost intolerable burden of loss. The climbing death toll is staggering, and we must work together to slow the spread of this virus. That is why you have been summoned to kill the virus with the vaccine . You must maintain social distance, if you come closer they will chase you  till you are affected. So get your masks on , put some sanitizers and get on the field. A tribute to Coronawarrior, who selflessly choose to put their lives at risk, their families remain at home living their lives in doubt and fear
 
 
 
