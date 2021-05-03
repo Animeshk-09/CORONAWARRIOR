@@ -18,4 +18,5 @@ You are the frontline warrior with the mission to kill all the Corona virus ( AK
 
 ![](images/game.PNG)
 
-[this](http://localhost:59771/)
+## Playing on the WEB
+To play the game. Just follow this [link](http://localhost:59771/)
