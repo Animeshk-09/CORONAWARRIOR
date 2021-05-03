@@ -1,4 +1,6 @@
 # CORONAWARRIOR (The game)
+## INTRO
+
 ## Software prerequisites:
 1. Unity Hub
 2. Unity3d 2020.3.5 or above
