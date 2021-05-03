@@ -1,5 +1,8 @@
 # CORONAWARRIOR (The game)
 ## INTRO
+You are the frontline warrior with the mission to kill all the Corona virus ( AKA Covid-19).It is a Contagious disease which has affected whole world, every one is affected by it . the human family is suffering under an almost intolerable burden of loss. The climbing death toll is staggering, and we must work together to slow the spread of this virus. That is why you have been summoned to kill the virus with the vaccine . You must maintain social distance, if you come closer they will chase you  till you are affected. So get your masks on , put some sanitizers and get on the field.
+![image](https://user-images.githubusercontent.com/53961299/116849031-86232500-ac0b-11eb-9b53-2520e3fc0b82.png)
+
 
 ## Software prerequisites:
 1. Unity Hub
